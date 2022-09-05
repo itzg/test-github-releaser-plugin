@@ -1,0 +1,7 @@
+{
+  "extract_dir": "task ':distZip' property 'archiveBaseName'-task ':distZip' property 'archiveVersion'",
+  "bin": "bin/prune-branches.bat",
+  "version": "master-SNAPSHOT",
+  "url": "https://github.com/itzg/test-github-releaser-plugin/releases/download/0.1.0/prune-branches-master-SNAPSHOT.zip",
+  "hash": "sha256:c35d938141db1f8385c9568aad5ffaafaf54650f133251c26ac9d24a31c7c952"
+}
