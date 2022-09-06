@@ -1,8 +1,8 @@
 {
-  "extract_dir": "prune-branches-use-github-releaser-SNAPSHOT",
+  "extract_dir": "prune-branches-1.4.0-pre1",
   "bin": "bin/prune-branches.bat",
   "suggest": {"JRE": ["java/temurin-lts-jre"]},
-  "version": "use-github-releaser-SNAPSHOT",
-  "url": "https://github.com/itzg/test-github-releaser-plugin/releases/download/0.1.0/prune-branches-use-github-releaser-SNAPSHOT.zip",
-  "hash": "sha256:78da8ac40e36b41dc222dc355d10c07b2ae2d6b3a443dbd1e2f20baa0d491b2e"
+  "version": "1.4.0-pre1",
+  "url": "https://github.com/itzg/prune-branches/releases/download/1.4.0-pre1/prune-branches-1.4.0-pre1.zip",
+  "hash": "sha256:60e899ae1f097074305db6a8e63680275abd8581b9ae57267527da562c38c673"
 }
