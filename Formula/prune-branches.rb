@@ -1,5 +1,5 @@
 
-class Prune-branches < Formula
+class PruneBranches < Formula
   desc "Prunes local git branches without remote branch"
   homepage ""
   url "https://github.com/itzg/test-github-releaser-plugin/releases/download/0.1.0/prune-branches-use-github-releaser-SNAPSHOT.tgz"
