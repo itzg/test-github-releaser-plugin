@@ -1,8 +1,3 @@
 {
-  "extract_dir": "prune-branches-1.4.0-pre1",
-  "bin": "bin/prune-branches.bat",
-  "suggest": {"JRE": ["java/temurin-lts-jre"]},
-  "version": "1.4.0-pre1",
-  "url": "https://github.com/itzg/prune-branches/releases/download/1.4.0-pre1/prune-branches-1.4.0-pre1.zip",
-  "hash": "sha256:60e899ae1f097074305db6a8e63680275abd8581b9ae57267527da562c38c673"
+    
 }
