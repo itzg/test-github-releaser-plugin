@@ -6,7 +6,7 @@ class PruneBranches < Formula
   sha256 "bd2b8963aed95761c423969bad11d8364dde9215503f5e42aff2ef36d44fb004"
   license ""
 
-  depends_on "openjdk@17"
+  depends_on "java"
 
   def install
     libexec.install Dir["*"]
