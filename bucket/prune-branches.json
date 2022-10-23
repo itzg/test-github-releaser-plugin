@@ -8,6 +8,5 @@
         "JRE": [
             "java/temurin-lts-jre"
         ]
-    },
-    "description": "Prunes local git branches without remote branch"
+    }
 }
