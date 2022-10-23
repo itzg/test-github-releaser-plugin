@@ -1,12 +1,13 @@
 {
     "version": "master-SNAPSHOT",
     "url": "https://github.com/itzg/test-github-releaser-plugin/releases/download/0.1.0/prune-branches-master-SNAPSHOT.zip",
-    "hash": "sha256:428ee13deedb0e78e6e0eb6e7da56098309e6405d2d00430d4a8dceee8fc3ead",
+    "hash": "sha256:7a20c5ae124bac8bc12eecb7fb6437c5e82ee533dbe12a5abe3ac1acc79c377c",
     "bin": "bin/prune-branches.bat",
     "extract_dir": "prune-branches-master-SNAPSHOT",
     "suggest": {
         "JRE": [
             "java/temurin-lts-jre"
         ]
-    }
+    },
+    "description": "Prunes local git branches without remote branch"
 }
